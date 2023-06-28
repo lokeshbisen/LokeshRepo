@@ -1,0 +1,5 @@
+2023-06-03 00:45:38,580 [main] INFO Log4jLogging - chrome browser instance opened
+2023-06-03 00:45:38,722 [main] INFO Log4jLogging - window maximized
+2023-06-03 00:45:38,733 [main] INFO Log4jLogging - Implicit wait given
+2023-06-03 00:45:39,641 [main] INFO Log4jLogging - Application opened
+2023-06-03 00:46:09,731 [main] INFO Log4jLogging - Failure - Web Element is not Displayed
