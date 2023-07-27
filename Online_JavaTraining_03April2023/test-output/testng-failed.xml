@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="javaPackage.Assertion2">
+      <class name="javaPackage.SeleniumGrid">
         <methods>
-          <include name="testCase2"/>
+          <include name="login" invocation-numbers="1 0"/>
         </methods>
-      </class> <!-- javaPackage.Assertion2 -->
+      </class> <!-- javaPackage.SeleniumGrid -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

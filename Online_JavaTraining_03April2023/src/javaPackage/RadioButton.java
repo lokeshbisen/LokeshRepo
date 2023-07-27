@@ -12,7 +12,7 @@ public class RadioButton {
 	public static void main(String[] args) throws Exception {
 		// setting the property of chrome browser and passing chromedriver path
 		System.setProperty("webdriver.chrome.driver",
-				"D:\\Lokesh03042023\\Lokesh\\Software\\chromedriver_win32 (1)\\chromedriver.exe");
+				"D:\\Lokesh03042023\\Lokesh\\Software\\chromedriver-win64\\chromedriver.exe");
 
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
